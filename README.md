@@ -1,4 +1,4 @@
 # web_coop
 Actividad de Clase
-# Grupo
+# grupo
 Alex, Iñaki, Nando y Jon
